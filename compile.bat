@@ -1,0 +1,1 @@
+nim c -d:release64 --opt:size --threads:on --app:gui -o:"../Columbus importer.exe" main.nim

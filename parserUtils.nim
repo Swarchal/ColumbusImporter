@@ -1,6 +1,5 @@
 # stdlib modules
 import os
-import nre
 import tables
 import algorithm
 import sequtils
